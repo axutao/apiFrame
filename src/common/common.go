@@ -3,9 +3,11 @@ package common
 import (
 	"encoding/json"
 	"fmt"
+	"math/rand"
 	"net/http"
 	"strconv"
 	"strings"
+	"time"
 )
 
 //空结构体,用于给前端返回空
@@ -31,7 +33,7 @@ func JSONTOSTRUCT(js string,t interface{}) {
 
 //如果用户没传参数或者参数为空格返回默认值 get方法
 func GETINIT(r *http.Request,k string,v string) string {
-
+	r.ParseForm()
 	//判断元素是否存在或者是否传空
 	if len(r.Form[k]) == 0 || strings.Replace(r.Form[k][0]," ","",-1) == ""{
 		return v
@@ -42,6 +44,7 @@ func GETINIT(r *http.Request,k string,v string) string {
 
 //如果用户没传参数或者参数为空格返回默认值 post方法
 func POSTINIT(r *http.Request,k string,v string) string {
+	r.ParseForm()
 	//判断元素是否存在或者是否传空
 	if len(r.PostForm[k]) == 0 || strings.Replace(r.PostForm[k][0]," ","",-1) == ""{
 		return v
@@ -89,4 +92,47 @@ func STRINGTOINT(s string) int {
 		return i
 	}
 }
+
+//打乱字符串数组
+func Random(strings []string, length int) ([]string) {
+
+	var newString []string
+
+	rand.Seed(time.Now().UnixNano())
+
+	var j = 0
+	for i := len(strings); i > 0; i-- {
+
+		index := rand.Intn(i)
+
+		newString = append(newString,strings[index])
+
+		strings = append(strings[:index],strings[index+1:]...)
+
+		j++
+
+		if (j == length){
+			break
+		}
+	}
+
+	return newString
+
+}
+
+//float64转为int
+func FLOAT64TOINT(f float64) (int) {
+
+	int64 := int64(f)
+	strInt64 := strconv.FormatInt(int64, 10)
+	int16,_ := strconv.Atoi(strInt64)
+	return int16
+}
+
+//int转为float64
+func INTTOFLOAT64(i int) (float64) {
+
+	return float64(int64(i))
+}
+
 

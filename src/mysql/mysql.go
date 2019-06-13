@@ -9,11 +9,11 @@ import (
 )
 
 const (
-	userName = "root"
-	password = "root"
-	ip = "127.0.0.1"
+	userName = "heby"
+	password = "heby123"
+	ip = "119.23.244.196"
 	port = "3306"
-	dbName = "test"
+	dbName = "anta_shop"
 )
 
 type MyDb struct {

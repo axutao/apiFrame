@@ -16,5 +16,7 @@ type Routes []Route
 
 var routes = Routes{
 	Route{Name:"UserList", Method:"GET",   Pattern:"/UserList",           HandlerFunc:controller.UserList},
-	Route{Name:"AddData", Method:"POST",   Pattern:"/AddData",           HandlerFunc:controller.AddData},
+	Route{Name:"GetWord", Method:"POST",   Pattern:"/GetWord",           HandlerFunc:controller.GetWord},
+	Route{Name:"IsPlay", Method:"POST",   Pattern:"/IsPlay",           HandlerFunc:controller.IsPlay},
+	Route{Name:"AllLuckList", Method:"POST",   Pattern:"/AllLuckList",           HandlerFunc:controller.AllLuckList},
 }
