@@ -1,0 +1,628 @@
+muscle
+intake
+adequate
+nutritious
+maintain 
+keen
+mental 
+intellectual 
+capacity 
+Constant
+supplies 
+inexhaustible 
+fuel 
+driving 
+sharpen 
+reasoning 
+ judgment 
+analysis 
+Career
+incessantly
+surest
+pace
+uncertainty
+certainty
+infallible
+warrant
+Entire
+Dozen
+Amount
+several
+Single
+Yard
+Centimeter
+Millimeter
+Kilometer
+Mile
+Inch
+Foot
+Liter
+Cent
+Cash
+Account
+balance
+apply
+small change
+forecast
+weather
+snowflake
+hurricane
+tornado
+sandstorm
+fog
+frost
+hail
+dew
+freeze
+temperature
+degree
+Celsius
+Brown
+Purple
+Silver
+Coral
+Navy blue
+Coal
+Solar energy
+Nuclear energy
+Oil
+Gas
+Recycle
+Waste
+Oxygen
+Ozone
+Smog
+Environment
+Matter
+Metal
+Mineral
+Chemical
+Atom
+Molecule
+Solid
+Pure
+Emergency
+Sick
+Injured
+Coma
+Attack
+Threaten
+Rob
+Robber
+Hostage
+Kidnap
+Kidnapper
+Slip
+Lost
+Stretcher
+Press
+Wound
+Mask
+Gauze
+Bandage
+Bind up
+First aid
+First aid kit 
+Band aid
+Thermometer
+Night snack
+Oatmeal
+Afternoon tea
+lunch
+dinner
+Yoghurt
+Juice
+Ham
+Bacon
+Sausage
+Cheese
+Peanut butter
+Jam
+Ketchup
+Beef
+pie
+Pasta
+Dessert
+Wine
+Peel
+Trim
+Wash
+Chop
+Cut
+Dice
+Slice
+Shred
+Mince
+Mash
+Grind
+Crack
+Pour
+Whisk
+Stir
+Knead
+Roll
+Stuff
+Wrap
+Boil
+Stew
+Simmer
+Decoct
+Stri-fry
+Deep fry
+Steam
+Smoke
+Roast
+Grease
+Season
+Marinate
+Pickle
+Heat
+Cool
+Pan
+Saucepan
+Steamer
+Non-stick pan
+Casserole
+Lid
+Handle
+Spatula
+Kitchen
+Peeler
+Grater
+Blender
+Whisk
+Strainer
+Sharpener
+Pestle
+Masher
+Gralic crusher
+Bottle opener
+Oven mitt
+Rolling pin
+Salt
+Vinegar
+Soy sauce
+Oil
+Ginger
+Scallion
+Pepper
+Curry
+Cumin
+Star anise
+Mustard
+Taste
+Sour
+Salty
+Spicy
+Delicious
+Yummy
+Disgusting
+Greasy
+Strong
+Smelly
+Unpleasant
+Fragrant
+Fork
+Straw
+Toothpick
+Chopstick
+Napkin
+Mug
+Goblet
+Jug
+Teapot
+Kettle
+Jar
+Basin
+Dish
+Bowl
+Plate
+Tray
+Coaster
+Potholder
+Place mat
+Pepsi
+Sprite
+Grape juice
+Sparkling
+Teabag
+Black tea
+Camomile tea
+Tea with lemon
+Mint
+Saucer
+Small
+Medium
+Large
+Beer
+Cider
+Whisky
+Champagne
+Brandy
+Cocktail
+Cone
+Doughnut
+Jelly
+Lollipop
+Pancake
+Pastry
+Popcorn
+Pudding
+Raisin
+Snack
+Airtight
+Jam
+Powdered milk
+Rind
+Frozen yoghurt
+Condensed milk
+Margarine
+Sheep's milk
+Lactose
+Wheat
+Oat
+Barley
+Millet
+Corn
+Rice
+Brown rice
+Kernel
+Long grain
+Easy cook
+Seed
+Husk
+Soak
+Soya beans
+Mung beans
+Pea
+Red beans
+Broad beans
+Chick peas
+Pumpkin seed
+Sesame seed
+Pine nut
+Hazelnut
+Walnut
+Chestnut
+Almond
+Fig
+Peanut
+Candied fruit
+Salted
+Roasted
+Shelled
+Desiccated
+Raw
+Pear
+Apricot
+Peach
+Papaya
+Lychee
+Kiwi fruit
+Persimmon
+Blackberry
+Melon
+Coconut
+Plum
+Tangerine
+Lime
+Mangosteen
+Nectarine
+Watermelon
+Olive
+Pomegranate
+Pineapple
+Pomelo
+Cantaloupe
+Cherry
+Apple pear
+Durian
+Strawberry
+Star fruit
+Blueberry
+Scallion
+Celery
+Carrot
+Cucumber
+Eggplant
+Mushroom
+Tomato
+Onion
+Fennel
+Lettuce
+Chinese cabbage
+Bamboo shoot
+Pumpkin
+Sweet potato
+Spinach
+Aubergine
+Chili
+Pak choi
+Broccoli
+Spring onion
+Bean sprout
+Beet
+Asparagus
+Zucchini
+Artichoke
+Bell pepper
+Yam
+Water chestnut
+Drumstick
+Wing
+Knuckle of pork
+Steak
+Pork chop
+Chop
+Leg of lamb
+Fish ball
+Turkey
+Salami
+Pork roast
+Ground beef
+Rib
+Liver
+Thigh
+Scallop
+Crab
+Crayfish
+Oyster
+Razor-shell
+Prawn
+King prawn
+Lobster
+Octopus
+Cuttlefish
+Squid
+Salmon
+Salmon fillet
+Yellow croaker
+Cod
+Trout
+Catfish
+Carp
+Abalone
+Clam
+Mussel
+Shrimp
+Steak
+Tail
+Bone
+Scale
+Skinned
+Boned
+Fillet
+Descaled
+Filleted
+Tape
+Hammer
+Drill
+Screwdriver
+Plier
+Paintbrush
+Ax
+Hinge
+Flashlight
+Nail
+Shovel
+Sponge
+Ladder
+Vise
+File
+Chisel
+Wrench
+Bolt
+Nut
+Saw
+Utility knife
+Level
+Rope
+Sandpaper
+Screw
+Washer
+Plywood
+Duct tape
+Padlock
+Wire
+Pipe
+Sheet
+Sweep
+Fold
+Vacuum
+Dust
+Polish
+Sink
+Scrub
+Toilet
+Mop
+Weed
+Garden
+Mow
+Lawn
+Heater
+Basement
+Light bulb
+Clog
+Leak
+Crack
+Jam
+Plumber
+Handyman
+Water meter
+Termite
+Rat
+Cockroach
+Dustpan
+Squeegee
+Furniture
+Dust cloth
+Dishwashing liquid
+Detergent
+Scouring pad
+Bug spray
+Insect spray
+Pail
+Rag
+Rubber gloves
+cleanser
+scrub brush
+Flyswatter
+Stepladder
+Mousetrap
+Mop
+broom
+Duster
+Bleach
+Clean
+Wash
+Scrape
+Sweep
+Laundry detergent
+Dirty washing
+Laundry basket
+Washing machine
+Tumble dryer
+Clean washing
+Clothes peg
+Ironing bord
+Dry
+Iron
+Spin
+Iron
+Rinse
+Hanger
+Collar
+Pocket
+Buttonhole
+Cuff
+Hem
+Tailor
+Sewing machine
+Pin
+Pincushion
+Zipper
+Seam
+Thimble
+Thread
+Needle
+Safety pin
+headset
+Switch on
+Provider
+Facility
+Area code
+Keypad
+Receiver
+answer
+Operator
+Dial tone
+Pick up
+Hang up
+Put through
+Engaged
+Voice message
+Information assistance
+Local call
+International call
+Inbox
+Attachment
+Install
+backup
+Forward
+Contact list
+Draft
+Memo
+Trash
+Appliance store
+Convenience store
+Restaurant
+Post office
+Hotel
+Gym
+Bookstore
+Pharmacy
+Police station
+Toy
+Bakery
+Delicatessen
+Pedestrian bridge
+Street sign
+Subway entrance
+Gas station
+Freeway
+Boulevard
+Crosswalk
+Intersectio
+Traffic light
+Pavement
+Fire hydrant
+Pedestrian zone
+Avenue
+Underpass
+Parking space
+Toilet
+Fragile
+Electrical hazard
+Camping tent
+Camping prohibited
+Radioactive
+Poisonous
+Stadium
+Mall
+Motel
+Mosque
+Theater
+Church
+Fire station
+City hall
+Courthouse
+Parking garage
+street
+Department store
+Museum
+Pedestrian
+Pedestrian crossing
+Traffic policeman
+Streetlight
+Square
+Road sweeper
+Fountain
+Monument
+Street vendor
+Gutter
+Graffiti
+Statue
+Dry cleaner
+Laundromat
+Drug store
+Hair salon
+Health club
+Copy shop
+Nail salon
+Clothing store
+Shoe store
+Jewelry store
+Sporing goods store
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
