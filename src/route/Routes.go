@@ -23,4 +23,5 @@ var routes = Routes{
 	Route{Name:"GetGameTimes", Method:"POST",   Pattern:"/GetGameTimes",           HandlerFunc:controller.GetGameTimes},
 	Route{Name:"Luck", Method:"POST",   Pattern:"/Luck",           HandlerFunc:controller.Luck},
 	Route{Name:"UpdateStatus", Method:"POST",   Pattern:"/UpdateStatus",           HandlerFunc:controller.UpdateStatus},
+	Route{Name:"UploadFile", Method:"POST",   Pattern:"/UploadFile",           HandlerFunc:controller.UploadFile},
 }

@@ -552,7 +552,7 @@ Gas station
 Freeway
 Boulevard
 Crosswalk
-Intersectio
+Intersection
 Traffic light
 Pavement
 Fire hydrant

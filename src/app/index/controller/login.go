@@ -216,6 +216,19 @@ func GetGameTimes(w http.ResponseWriter, r *http.Request)  {
 	fmt.Fprintln(w, common.RETURNDATA(200,"成功",dd))
 }
 
+//上传文件
+func UploadFile(w http.ResponseWriter, r *http.Request)  {
+	k := common.POSTINIT(r,"uploadfile","uploadfile")
+	suffix := []string{"jpg","png"}
+	filaName := "test.png"
+	pathZ := "upload/"
+
+	filePath := common.UPLOADFILEONE(r,k,pathZ,filaName,suffix)
+	fmt.Fprintln(w, filePath)
+}
+
+
+
 func Luck(w http.ResponseWriter, r *http.Request)  {
 
 	type prize struct {

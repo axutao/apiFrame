@@ -1,12 +1,12 @@
-﻿Pick up
+﻿ Pick up
 Beet
-ketchup
-kiwi fruit
-crack
-coaster
-appliance store
-install
-sprite
+Ketchup
+Kiwi fruit
+Crack
+Coaster
+Appliance store
+Install
+Sprite
 Monday
 Tuesday
 Wednesday

@@ -3,8 +3,12 @@ package common
 import (
 	"encoding/json"
 	"fmt"
+	"io"
+	"log"
 	"math/rand"
 	"net/http"
+	"os"
+	"path"
 	"strconv"
 	"strings"
 	"time"
@@ -135,4 +139,58 @@ func INTTOFLOAT64(i int) (float64) {
 	return float64(int64(i))
 }
 
+//单文件 上传文件 field:文件的字段名 pathZ：存储路径 fileName存储的文件名
+func UPLOADFILEONE(r *http.Request,field,pathZ,fileName string,suffix []string) (string) {
+
+	// 根据字段名获取表单文件
+	formFile, handle, err := r.FormFile(field)
+	if err != nil {
+		log.Printf("Get form file failed: %s\n", err)
+		return "error"
+	}
+
+	// 检查图片后缀
+	ext := strings.ToLower(path.Ext(handle.Filename))
+
+	flag := IN_STRING_ARRAY(strings.Replace(ext,".","",-1),suffix)
+
+
+	if flag == 0{
+		return "格式错误"
+	}
+	//if ext != ".jpg" && ext != ".png" {
+	//	return "jpg||png"
+	//	//defer os.Exit(2)
+	//}
+
+	defer formFile.Close()
+	// 创建保存文件
+	filePath := fmt.Sprintf("%s%s",pathZ,fileName)
+	destFile, err := os.Create(filePath)
+	if err != nil {
+		log.Printf("Create failed: %s\n", err)
+		return "error"
+	}
+	defer destFile.Close()
+
+	// 读取表单文件，写入保存文件
+	_, err = io.Copy(destFile, formFile)
+	if err != nil {
+		log.Printf("Write file failed: %s\n", err)
+		return "error"
+	}
+
+	return filePath
+
+}
+
+//判断某个字符串是否再数组里面
+func IN_STRING_ARRAY(k string,dd []string) int {
+	for _, v := range dd {
+		if k == v{
+			return 1
+		}
+	}
+	return 0
+}
 
